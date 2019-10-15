@@ -48,7 +48,7 @@ You must first install development libraries to your host. Assuming Ubuntu
         wget \
         pkg-config \
         git \
-        cryptsetup
+        cryptsetup-bin
 
 .. note::
     Note that ``squashfs-tools`` is only a dependency for commands that build
